@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "final-project-template"
+version = "0.1.0"
+description = ""
+authors = ["Yahya Gilany <yahya.gilany@live.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+ipykernel = "^6.25.2"
+notebook = "^7.0.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
