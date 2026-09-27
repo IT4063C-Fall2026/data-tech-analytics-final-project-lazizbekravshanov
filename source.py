@@ -128,7 +128,7 @@ math_labeled["Qualification"].value_counts()
 # * Kaggle, Student Alcohol Consumption: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 # * Wikipedia, Academic grading in Portugal: https://en.wikipedia.org/wiki/Academic_grading_in_Portugal
 
-# In[9]:
+# In[10]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
